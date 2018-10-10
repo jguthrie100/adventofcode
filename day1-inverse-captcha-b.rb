@@ -13,4 +13,4 @@ File.open('day1-inverse-captcha.txt').each do |line|
   end
 end
 
-puts total
+puts "Solution: #{total}"

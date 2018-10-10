@@ -23,4 +23,4 @@ end
 
 total += curr_digit if curr_digit == first_digit
 
-puts total
+puts "Solution: #{total}"

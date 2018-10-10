@@ -6,4 +6,4 @@ File.open('day2-spreadsheet_checksum.txt').each do |line|
   checksum += (vals.last - vals.first)
 end
 
-puts checksum
+puts "Solution: #{checksum}"

@@ -21,4 +21,4 @@ File.open('day2-spreadsheet_checksum.txt').each do |line|
   end
 end
 
-puts checksum
+puts "Solution: #{checksum}"

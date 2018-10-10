@@ -24,4 +24,4 @@ while t > target
   d += inc
 end
 
-puts d + ring # manhattan dist
+puts "Solution: #{d + ring}" # manhattan dist

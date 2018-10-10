@@ -60,4 +60,4 @@ while curr_val < target
   set_cell(curr_cell, curr_val)
 end
 
-puts curr_val
+puts "Solution: #{curr_val}"
